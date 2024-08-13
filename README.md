@@ -1,8 +1,5 @@
 # RangeSlider
 
-Forked version modified `onStartShouldSetPanResponderCapture` value from `falseFunc` to `trueFunc` to work with modals
-`onStartShouldSetPanResponderCapture: trueFunc`
-
 A highly optimized and fully customizable pure TS component for value range selection.
 
 The component is not re-rendered while user moves the thumb.<br/>
@@ -10,6 +7,10 @@ Even if there is a label, only the label component is re-rendered when values ar
 
 RangeSlider uses React Native's Animated library to transform thumbs / label / selected rail.<br/>
 These optimizations help to achieve as much native look & feel as possible using only the JS layer.
+
+# FYI 🚨
+
+Forked version modified `onStartShouldSetPanResponderCapture` value from `falseFunc` to `trueFunc` to work with modals
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/githuboftigran/rn-range-slider/master/demo.gif" width="369" height="195">
