@@ -1,9 +1,9 @@
 {
-  "name": "rn-range-slider",
-  "version": "2.2.2",
+  "name": "crn-range-slider",
+  "version": "1.0.0",
   "author": "Tigran Sahakyan <mail.of.tigran@gmail.com>",
-  "description": "A highly optimized pure JS implementation of Range Slider for React Native",
-  "homepage": "https://github.com/githuboftigran/rn-range-slider",
+  "description": "Forked version of highly optimized pure JS implementation of Range Slider for React Native (Android and iOS)",
+  "homepage": "https://github.com/csulit/rn-range-slider.git",
   "main": "index.tsx",
   "scripts": {
     "test": ""
@@ -21,13 +21,11 @@
     "slider",
     "seekbar"
   ],
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "https://github.com/githuboftigran/rn-range-slider.git"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "license": "MIT"
 }
