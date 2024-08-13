@@ -1,6 +1,6 @@
 # RangeSlider
 
-Forked version modified from 'falseFunc' to 'trueFunc' to work with modals
+Forked version modified `onStartShouldSetPanResponderCapture` value from `falseFunc` to `trueFunc` to work with modals
 `onStartShouldSetPanResponderCapture: trueFunc`
 
 A highly optimized and fully customizable pure TS component for value range selection.
